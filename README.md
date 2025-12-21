@@ -11,7 +11,7 @@
 - **Complete file integrity preservation** ensuring inherent resistance to statistical steganalysis
 - **Logarithmic capacity scaling** with folder size: `C = ⌊log₂(M)⌋` bits per folder
 
-This framework implements the complete system described in the paper "Contextual Cloud Steganography: Breaking the Capacity-Security Trade-Off" (IEEE Transactions on Information Forensics and Security, 2024).
+This framework implements the complete system described in the paper "Contextual Cloud Steganography: Breaking the Capacity-Security Trade-Off" (IEEE Transactions on Cloud Computing, 2026).
 
 ## 🚀 Key Features
 
