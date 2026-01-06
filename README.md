@@ -123,7 +123,7 @@ extracted = extractor.extract(stego_folder, cover_folders, stego_key)
 print(f"Extracted: {extracted}")  # Should match original
 ```
 
-### Concrete Example (Section 4.3 from Paper)
+### Concrete Example 
 ```bash
 # Run the complete example from the paper
 cd examples
