@@ -125,7 +125,7 @@ print(f"Extracted: {extracted}")  # Should match original
 
 ### Concrete Example 
 ```bash
-# Run the complete example from the paper
+# Run the complete example 
 cd examples
 python concrete_example.py
 ```
