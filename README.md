@@ -254,9 +254,8 @@ onedrive:
 ### Key Algorithms Implemented
 1. **Algorithm 1**: CCS Embedding with AES encryption
 2. **Algorithm 2-3**: Optimized extraction with HMAC verification
-3. **Algorithm 4-5**: Concrete example from Section 4.3
-4. **Algorithm 7**: Proactive change detection
-5. **Algorithm 8**: Enterprise-grade fault tolerance
+3. **Algorithm 7**: Proactive change detection
+4. **Algorithm 8**: Enterprise-grade fault tolerance
 
 ## 🚀 Deployment
 
