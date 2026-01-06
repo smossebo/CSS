@@ -50,8 +50,8 @@ This framework implements the complete system described in the paper "Contextual
 
 ```
 ┌─────────────────┐     ┌─────────────────┐       ┌─────────────────┐
-│     Sender      │---->│   Cloud Storage │<------│    Receiver     │
-│   (Alice)       │     │  (Cover Folders)│       │     (Bob)       │
+│     Sender      │---->│  Cloud Storage  │<------│    Receiver     │
+│     (Alice)     │     │ (Cover Folders) │       │     (Bob)       │
 └─────────────────┘     └─────────────────┘       └─────────────────┘
          │                                                 │
          │                  Pre-shared Protocol            │
